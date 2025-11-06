@@ -12,8 +12,8 @@ error_reporting(E_ALL);
 ini_set('display_errors', 1);
 
 // ========== KONFIG TELEGRAM ==========
-$token   = "8332626266:AAEdckQQHkekWmCLclIWTlRvmL0MjzsDFow";    // <-- ganti
-$chat_id = "-4912270132";      // <-- ganti
+$token   = "";    // <-- ganti
+$chat_id = "";      // <-- ganti
 
 // ========== LOKASI CACHE ==========
 $status_file = __DIR__ . '/status_cache.json';
@@ -355,3 +355,4 @@ el('btn-once').onclick = ()=>pollOnce(true);
 </script>
 </body>
 </html>
+
