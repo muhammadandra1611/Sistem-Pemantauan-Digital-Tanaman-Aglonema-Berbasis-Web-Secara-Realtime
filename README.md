@@ -17,7 +17,8 @@ Proyek ini merupakan sistem monitoring tanaman Aglonema secara realtime yang men
 Sensor -> JSON Data -> Flask API (VPS) -> PHP Website -> User Interface (Realtime)
                                               │
                                               └──> Telegram Bot Notification
-
+                                              
+⚙️ Teknologi yang Digunakan
 
 | Komponen     | Teknologi                  |
 | ------------ | -------------------------- |
