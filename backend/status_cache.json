@@ -1,0 +1,14 @@
+{
+    "suhu": {
+        "active": true,
+        "last_sent": 1756315643
+    },
+    "kelembaban": {
+        "active": true,
+        "last_sent": 1756315505
+    },
+    "tanah": {
+        "active": false,
+        "last_sent": 0
+    }
+}

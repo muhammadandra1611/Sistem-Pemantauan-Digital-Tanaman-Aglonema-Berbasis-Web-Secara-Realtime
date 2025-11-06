@@ -1,0 +1,4 @@
+ | SUHU: °C | UDARA: % | TANAH: %
+ | SUHU: °C | UDARA: % | TANAH: %
+2025-08-07 22:48:14 | SUHU: 29.6°C | UDARA: 77.2% | TANAH: 0%
+2025-08-07 22:51:47 | SUHU: 29.6°C | UDARA: 76.9% | TANAH: 0%
