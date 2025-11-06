@@ -1,0 +1,2 @@
+# Sistem-Pemantauan-Digital-Tanaman-Aglonema-Berbasis-Web-Secara-Realtime
+Proyek ini merupakan sistem monitoring tanaman Aglonema secara realtime yang menggabungkan teknologi Python (Flask), PHP, dan JavaScript. Sistem ini dirancang untuk memantau kondisi tanaman seperti suhu udara, kelembapan, dan intensitas cahaya melalui website interaktif, sekaligus kirim notifi otomatis ke Telegram jika suhu melebihi batas normal.
